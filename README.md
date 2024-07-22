@@ -43,6 +43,8 @@ AUT : https://tutorialsninja.com/demo/
 
 - My Account Information
 
+![WhatsApp Image 2024-07-19 at 21 34 28](https://github.com/user-attachments/assets/6c7859ef-24d3-4623-b160-ef4f116acd6e)
+
 **Testing Types**
 
 - Functional Testing
