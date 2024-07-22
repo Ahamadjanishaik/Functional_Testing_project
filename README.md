@@ -126,5 +126,4 @@ I am a skilled tester proficient in Cypress and experienced in functional testin
 
 Connect Me --> "shaikahamadjani4@gmail.com"
 
-##Interface 
-![User Interface](https://github.com/user-attachments/assets/46ce00e3-2c75-4f17-bfb9-1e8e593e627c)
+
